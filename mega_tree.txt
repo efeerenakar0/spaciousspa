@@ -1,0 +1,426 @@
+Mega Tree:
+- [DIR] Logo
+  - [FILE] spacious_logo.pdf
+  - [FILE] Spacıous-logo-b99c77.png
+  - [FILE] Spacıous-logo-504b31.png
+  - [FILE] Spacıous-logo-e9ddc6.png
+  - [FILE] Spacıous-logo-9b5634.png
+  - [FILE] Spacıous-logo-9d9a74.png
+- [DIR] Brand Board
+  - [FILE] Spacious Spa Brand Board.pdf
+- [DIR] 2025
+  - [DIR] Nisan
+    - [DIR] Reels
+      - [FILE] SpaciousSpa_Dikey_17.04.2025.mp4
+    - [DIR] Yatay Video
+      - [FILE] SpaciousSpa_Yatay_logolu_17.04.2025.mp4
+    - [DIR] SpaciousSpa  EDİT
+      - [DIR] K1 EDİT
+        - [FILE] DSCF0040 kopya.jpg
+        - [FILE] DSCF0046 kopya.jpg
+        - [FILE] DSCF0031 kopya.jpg
+        - [FILE] DSCF0010 kopya.jpg
+        - [FILE] DSCF0039 kopya.jpg
+        - [FILE] DSCF0009 kopya.jpg
+        - [FILE] DSCF0017 kopya.jpg
+        - [FILE] DSCF0005 kopya.jpg
+        - [FILE] DSCF0093 kopya.jpg
+        - [FILE] DSCF0003 kopya.jpg
+        - [FILE] DSCF0195 kopya.jpg
+        - [FILE] DSCF0104 kopya.jpg
+        - [FILE] DSCF0204 kopya.jpg
+        - [FILE] DSCF0071 kopya.jpg
+        - [FILE] DSCF0068 kopya.jpg
+        - [FILE] DSCF0199 kopya.jpg
+        - [FILE] DSCF0221 kopya.jpg
+        - [FILE] DSCF0164 kopya.jpg
+        - [FILE] DSCF0074 kopya.jpg
+        - [FILE] DSCF0072 kopya.jpg
+        - [FILE] DSCF0178 kopya.jpg
+        - [FILE] DSCF0177 kopya.jpg
+        - [FILE] DSCF0124 kopya.jpg
+        - [FILE] DSCF0190 kopya.jpg
+        - [FILE] DSCF0136 kopya.jpg
+        - [FILE] DSCF0131 kopya.jpg
+        - [FILE] DSCF0098 kopya.jpg
+        - [FILE] DSCF0013 kopya.jpg
+        - [FILE] DSCF0053 kopya.jpg
+        - [FILE] DSCF0043 kopya.jpg
+        - [FILE] DSCF0192 kopya.jpg
+      - [DIR] K2 EDİT
+        - [FILE] DSCF0077 kopya.jpg
+        - [FILE] DSCF0086 kopya.jpg
+        - [FILE] DSCF9993 kopya.jpg
+        - [FILE] DSCF0083 kopya.jpg
+        - [FILE] DSCF9989 kopya.jpg
+        - [FILE] DSCF9998 kopya.jpg
+        - [FILE] DSCF9995 kopya.jpg
+        - [FILE] DSCF0049 kopya.jpg
+        - [FILE] DSCF0072 kopya.jpg
+        - [FILE] DSCF0035 kopya.jpg
+        - [FILE] DSCF0039 kopya.jpg
+        - [FILE] DSCF0017 kopya.jpg
+        - [FILE] DSCF9987 kopya.jpg
+        - [FILE] DSCF9999 kopya.jpg
+        - [FILE] DSCF0091 kopya.jpg
+        - [FILE] DSCF0172 kopya.jpg
+        - [FILE] DSCF0105 kopya.jpg
+        - [FILE] DSCF0114 kopya.jpg
+        - [FILE] DSCF0098 kopya.jpg
+        - [FILE] DSCF0168 kopya.jpg
+        - [FILE] DSCF0140 kopya.jpg
+        - [FILE] DSCF0129 kopya.jpg
+        - [FILE] DSCF0146 kopya.jpg
+  - [DIR] Aralık
+    - [DIR] Story
+      - [FILE] Spaciousspa_story1.mp4
+      - [DIR] Konum Storyler
+        - [FILE] Alesta.png
+        - [FILE] Atapark.png
+        - [FILE] EuroPark.png
+        - [FILE] Ramada.png
+        - [FILE] Spacious_Garcia Resort & Spa Hotel_Story.jpg
+- [DIR] 2026
+  - [DIR] Ocak
+    - [DIR] Post
+      - [DIR] PAYLAŞILDI
+        - [FILE] SpaciousSpa_Post5_19.12.png
+        - [FILE] SpaciousSpa_Post1_19.12.png
+        - [FILE] SpaciousSpa_Post2_19.12.png
+        - [FILE] SpaciousSpa_Post6_19.12.png
+        - [FILE] SpaciousSpa_Post4_19.12.png
+        - [FILE] SpaciousSpa_Post3_19.12.png
+        - [FILE] Spaciousspa_post8_19.12.png
+        - [DIR] SpaciousSpa_Post7_19.12
+          - [FILE] post7_1.png
+          - [FILE] post7_2.png
+    - [DIR] Reels
+      - [DIR] Reels Kapakları
+        - [DIR] PAYLAŞILDI
+          - [FILE] reels3kapak.jpg
+          - [FILE] reels2kapak.jpg
+          - [FILE] Reelskapak1.jpg
+          - [FILE] ReelsKapak4.jpg
+      - [DIR] PAYLAŞILDI
+        - [FILE] Spaciousspa_reels2_19.12.mp4
+        - [FILE] spaciousspa_reels3_18.12.25.mp4
+        - [FILE] SpaciusModelliReels22,12,25V2.mp4
+        - [FILE] SpaciusMekanReels20,12,25v3.mp4
+    - [FILE] Spacious Spa Ocak Aylık Plan.png
+    - [DIR] Menü
+      - [FILE] SpaciousSpa_menü_EN.pdf
+      - [FILE] SpaciousSpa_menü_TR.pdf
+    - [DIR] Story
+      - [FILE] 2.png
+      - [FILE] 6.png
+      - [FILE] 5.png
+      - [FILE] 4.png
+      - [FILE] 3.png
+      - [FILE] 1.png
+      - [FILE] 8.png
+      - [FILE] 7.png
+      - [FILE] 9.png
+  - [DIR] Öne Çıkanlar
+    - [FILE] Menu.png
+    - [FILE] From you.png
+    - [FILE] Location.png
+  - [DIR] Şubat
+    - [DIR] post
+      - [DIR] PAYLAŞILDI
+        - [DIR] carousel
+          - [FILE] post_1.png
+          - [FILE] post_1_2.png
+        - [FILE] post_2.png
+        - [FILE] post_3.png
+        - [FILE] post_4.png
+        - [FILE] post_5.png
+        - [FILE] post_6.png
+        - [FILE] post_7.png
+        - [FILE] post_8.png
+        - [FILE] post_5.jpg
+        - [FILE] post_2.jpg
+        - [FILE] post_6.jpg
+        - [FILE] post_3.jpg
+        - [FILE] post_7.jpg
+        - [FILE] post_8.jpg
+        - [FILE] post_4.jpg
+      - [DIR] carousel
+        - [FILE] post_1-1.jpg
+        - [FILE] post_1-2.jpg
+    - [DIR] reels
+      - [DIR] reelskapaklari
+        - [FILE] reels5kapak_fazla.jpg
+        - [DIR] PAYLAŞILDI
+          - [FILE] reels_1.png
+          - [FILE] reels_1_kapak.png
+          - [FILE] reels_3.png
+          - [FILE] reels_4.jpg
+          - [FILE] SpaciusSpaMixKapakResmi.jpg
+          - [FILE] reels_4_kapak.jpg
+          - [FILE] reels_3_kapak.jpg
+          - [FILE] reels_2_kapak.jpg
+      - [DIR] PAYLAŞILDI
+        - [FILE] reels_3.mp4
+        - [FILE] reels_4.mp4
+        - [FILE] reels_2.mp4
+        - [FILE] reels_1.mp4
+        - [FILE] reel_4SpasciusSpa09,02,26Reels.mp4
+        - [FILE] reel_3SpasciusSpa09,02,26Reels4.mp4
+        - [FILE] reel_2SpasciusSpaRamada09,02,26Reels2V2.mp4
+        - [FILE] reel_1SpasciusSpa09,02,26Reels5.mp4
+      - [FILE] SpaciusSpaMixReels26,01,26V2.mp4
+    - [DIR] story
+      - [FILE] story_5.png
+      - [FILE] story_8.png
+      - [FILE] story_3.png
+      - [FILE] story_1_2.png
+      - [FILE] story_1.png
+      - [FILE] story_2.png
+      - [FILE] story_4.png
+      - [FILE] story_6.png
+      - [FILE] story_7.png
+      - [FILE] SpaciousSpa_Story_11.02.26_Çekilişsonucu.jpg
+  - [DIR] Mart
+    - [DIR] Reels
+      - [FILE] SpasciusSpa09,02,26Reels3.mp4
+      - [DIR] kapak
+        - [FILE] reels3kapak.jpg
+      - [FILE] SpaciusmartReels1V2.mp4
+      - [FILE] SpaciusmartReels2v2.mp4
+      - [FILE] SpaciusmartReels3.mp4
+    - [DIR] Post
+      - [FILE] 3.jpg
+      - [FILE] 9.jpg
+      - [FILE] 7.jpg
+      - [FILE] 4.jpg
+      - [FILE] 10.jpg
+      - [FILE] 12.jpg
+      - [FILE] 6.jpg
+      - [DIR] PAYLAŞILDI
+        - [FILE] 1.jpg
+    - [DIR] Story
+      - [FILE] 2.jpg
+      - [FILE] 5.jpg
+      - [FILE] 3.jpg
+      - [FILE] 6.jpg
+      - [FILE] 1.jpg
+      - [FILE] 7.jpg
+      - [FILE] 8.jpg
+      - [FILE] 4.jpg
+      - [DIR] PAYLAŞILDI
+    - [DIR] Spacious Spa Mart Aylık Plan
+      - [DIR] Post
+        - [DIR] Paylaşıldı
+          - [FILE] 7.jpg
+          - [FILE] 8.jpg
+          - [FILE] 6.jpg
+          - [FILE] 2.jpg
+          - [FILE] 1.jpg
+          - [FILE] 3.jpg
+          - [FILE] 5.jpg
+          - [FILE] 4.jpg
+      - [DIR] Reel
+        - [DIR] Reel Kapak
+          - [FILE] 2.jpg
+          - [FILE] 1.jpg
+          - [FILE] 4.jpg
+          - [FILE] 3.jpg
+        - [FILE] .DS_Store
+        - [DIR] Paylaşıldı
+          - [FILE] Spacious_reel1.mp4
+          - [FILE] Spacious_reel3.mp4
+          - [FILE] Spacious_reel4.mp4
+          - [FILE] Spacious_reel2.mp4
+      - [FILE] .DS_Store
+  - [DIR] Nisan
+    - [DIR] Reels
+      - [DIR] reels kapağı
+        - [FILE] reels kapağı-1.jpg
+        - [FILE] reels kapağı-2.jpg
+        - [FILE] reels kapağı-3.jpg
+        - [FILE] reels kapağı-4.jpg
+      - [DIR] Paylaşıldı
+        - [FILE] SpaciusReels4.mp4
+        - [FILE] SpaciusReels1.mp4
+        - [FILE] SpaciusReels2.mp4
+        - [FILE] SpaciusReels3.mp4
+    - [DIR] Post
+      - [DIR] Paylaşıldı
+        - [FILE] spacious Spa-7.png
+        - [FILE] Spacious Spa-6.png
+        - [FILE] Spacious Spa-9.png
+        - [FILE] Spacious Spa-10.png
+        - [FILE] Spacious Spa-4.png
+        - [FILE] Spacious Spa-12.png
+        - [FILE] Spacious Spa-3.png
+        - [DIR] post-1
+          - [FILE] 2.png
+          - [FILE] 1.png
+    - [DIR] story
+      - [DIR] story-1
+        - [FILE] 1.png
+        - [FILE] 2.png
+      - [FILE] story-6.png
+      - [FILE] story-12.png
+      - [FILE] story-9.png
+      - [FILE] story-7.png
+      - [FILE] story-4.png
+      - [FILE] story-10.png
+      - [FILE] story-3.png
+      - [FILE] story-2.jpg
+      - [FILE] story-8.jpg
+      - [FILE] story-11.jpg
+      - [FILE] story-5.jpg
+  - [DIR] Mayıs
+    - [DIR] post
+      - [DIR] Paylaşıldı
+        - [DIR] post-1
+          - [FILE] 1.png
+          - [FILE] 3.png
+          - [FILE] 2.png
+        - [DIR] post-4
+          - [FILE] 2.png
+          - [FILE] 1.png
+        - [FILE] post-3.png
+        - [FILE] post-5.png
+        - [FILE] post-2.png
+        - [FILE] post-7.png
+        - [FILE] Post-6.mp4
+        - [FILE] post-8.png
+      - [FILE] post-6.png
+    - [DIR] reels
+      - [DIR] reels kapağı
+        - [FILE] 1.png
+        - [FILE] 3.png
+        - [FILE] 4.png
+        - [FILE] 2.png
+      - [DIR] Paylaşıldı
+        - [FILE] Spacious_3.reels_05.05.2026.mp4
+        - [FILE] Spacious_1.reels_05.05.2026.mp4
+        - [FILE] Spacious_4.reels_05.05.2026.mp4
+        - [FILE] Spacious_2. reels_05.05.2026.mp4
+        - [FILE] Spacious_2.reels_v2_05.05.2026.mp4
+    - [DIR] story
+      - [DIR] story-1
+        - [FILE] 1.png
+        - [FILE] 3.png
+        - [FILE] 2.png
+      - [DIR] story-6
+        - [FILE] 2.png
+        - [FILE] 1.png
+      - [FILE] story-7.png
+      - [FILE] story-4.png
+      - [FILE] Story-8.jpg
+      - [FILE] story-2.jpg
+      - [FILE] story-5.jpg
+      - [FILE] story-11.png
+      - [FILE] story-3.png
+      - [FILE] story-10.png
+      - [FILE] story-12.png
+      - [FILE] story-9.mp4
+  - [DIR] Haziran
+    - [DIR] Reels
+      - [DIR] reels kapağı
+        - [FILE] reels kapağı-2.jpg
+        - [FILE] reels kapağı-4.jpg
+        - [FILE] reels kapağı-3.jpg
+        - [FILE] reels kapağı-1.jpg
+      - [DIR] Paylaşıldı
+        - [FILE] Spacious_reels 3_01.06.2026.mp4
+        - [FILE] Spacious_reels 2_01.06.2026.mp4
+        - [FILE] Spacious_reels 1_01.06.2026.mp4
+        - [FILE] Spacious_reels 4_v2_01.06.2026.mp4
+    - [DIR] Post
+      - [DIR] post-8
+        - [FILE] 1.jpg
+        - [FILE] 2.jpg
+      - [DIR] Paylaşıldı
+        - [FILE] SpaciousSpa-5.jpg
+        - [FILE] SpaciousSpa-6.jpg
+        - [FILE] SpaciousSpa-7.jpg
+        - [FILE] SpaciousSpa-2.jpg
+        - [FILE] SpaciousSpa-1.png
+        - [FILE] SpaciousSpa-4.png
+    - [DIR] story
+      - [FILE] 2.jpg
+      - [FILE] 1.jpg
+      - [FILE] 3.jpg
+  - [DIR] Temmuz
+    - [DIR] post 
+      - [DIR] paylaşıldı
+        - [DIR] post-8
+          - [FILE] 1.jpg
+          - [FILE] 2.jpg
+        - [DIR] post-4
+          - [FILE] 2.jpg
+          - [FILE] 1.jpg
+        - [DIR] post-3
+          - [FILE] 1.jpg
+          - [FILE] 2.jpg
+        - [FILE] post-1.jpg
+        - [FILE] post-5.jpg
+        - [FILE] post-7.jpg
+        - [FILE] post-2.jpg
+        - [FILE] post-6.jpg
+    - [DIR] reels
+      - [DIR] reels kapak
+        - [FILE] 4.jpg
+        - [FILE] 3.jpg
+        - [FILE] 2.jpg
+        - [FILE] 1.jpg
+      - [DIR] paylaşılan
+        - [FILE] SpaciousSpa-Reels 1-06.07.26.mp4
+        - [FILE] SpaciousSpa-Reels2-.mp4
+        - [FILE] SpaciousSpa-Reels4-.mp4
+        - [FILE] SpaciousSpa-Reels3-.mp4
+    - [DIR] Story
+      - [FILE] story 5.jpg
+      - [FILE] story 1.jpg
+      - [FILE] story 2.jpg
+      - [FILE] story 7.jpg
+      - [FILE] story 6.jpg
+      - [DIR] story-3
+        - [FILE] 1.jpg
+        - [FILE] 2.jpg
+      - [DIR] Story-4
+        - [FILE] 2.jpg
+        - [FILE] 1.jpg
+      - [DIR] story-8
+        - [FILE] 2.jpg
+        - [FILE] 1.png
+- [DIR] MENÜ
+  - [FILE] Spacious_iki yaprak menü_EN.pdf
+  - [FILE] Spacious_iki yaprak menü_TR.pdf
+  - [FILE] Deluxe SpaciousSpa_menü_TR.pdf
+  - [FILE] Deluxe SpaciousSpa_menü_EN.pdf
+- [DIR] Google Fotoğraflar
+  - [FILE] DSCF4602.JPG
+  - [FILE] DSCF4634.JPG
+  - [FILE] DSCF4636.JPG
+  - [FILE] DSCF4606.JPG
+  - [FILE] DSCF4581.JPG
+  - [FILE] DSCF4615.JPG
+  - [FILE] DSCF4666.JPG
+  - [FILE] DSCF4613.JPG
+  - [FILE] DSCF4588.JPG
+  - [FILE] DSCF4528.JPG
+  - [FILE] DSCF4522.JPG
+  - [FILE] DSCF4517.JPG
+  - [FILE] DSCF4496.JPG
+  - [FILE] DSCF0180.mov
+  - [DIR] renkli google
+    - [FILE] DSCF4639.JPG
+    - [FILE] DSCF4715.JPG
+    - [FILE] DSCF5046.JPG
+    - [FILE] DSCF4606.JPG.jpg
+    - [FILE] DSCF4602.JPG.jpg
+    - [FILE] DSCF4634.JPG.jpg
+    - [FILE] DSCF4581.JPG.jpg
+    - [FILE] DSCF4613.JPG.jpg
+    - [FILE] DSCF4522.JPG.jpg
+    - [FILE] DSCF4517.JPG.jpg
+    - [FILE] DSCF4588.JPG.jpg
+    - [FILE] DSCF4528.JPG.jpg
+    - [FILE] DSCF4496.JPG.jpg
+    - [FILE] 818f434e-8b71-4436-a540-41f387772046.jpg
+    - [FILE] 49fad39b-2f55-4731-b118-5ed2c6070816.jpg
