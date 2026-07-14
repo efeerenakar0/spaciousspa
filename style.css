@@ -2134,6 +2134,7 @@ p { font-size: 14px; }
   .header-inner { padding: 16px 24px; }
   .nav-list, .main-nav { display: none; }
   .hamburger { display: flex; }
+  .header-phone { display: none; }
 
   /* Topbar */
   .topbar-inner { flex-direction: column; align-items: flex-start; padding: 12px 24px; gap: 10px; }
