@@ -17,7 +17,8 @@
     'tr': '🇹🇷 TR',
     'en': '🇬🇧 EN',
     'ru': '🇷🇺 RU',
-    'de': '🇩🇪 DE'
+    'de': '🇩🇪 DE',
+    'zh-CN': '🇨🇳 ZH'
   };
 
   function triggerGoogleTranslate(langCode) {
